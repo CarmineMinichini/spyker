@@ -5,7 +5,7 @@ Un tool per il riconoscimento vocale focalizzato sull'analisi semantica e sentim
 
 
 ## Utilizzo
-Installare le librerie necessarie
+Dalla cartella:
 ```
 pip install -r requirements.txt
 ```
