@@ -1,0 +1,8 @@
+pandas
+numpy
+speech_recognition
+nltk
+collections
+seaborn
+matplotlib
+sklearn
