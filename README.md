@@ -4,4 +4,12 @@ Un tool per il riconoscimento vocale focalizzato sull'analisi semantica e sentim
 ![Screenshot](screen.png)
 
 
+## Utilizzo
+Installare le librerie necessarie
+<pip install -r requirements.txt>
+
+dal terminale:
+<python3 spyker.py>
+
+
 
