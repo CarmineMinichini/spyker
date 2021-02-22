@@ -1,5 +1,8 @@
 # spyker
-Un tool per il riconoscimento vocale focalizzato sull'analisi semantica e sentimentale per la lingua italiana,
+Un tool per il riconoscimento vocale focalizzato sull'analisi semantica e sentimentale per la lingua italiana.
+
+E' possibile caricare un file audio (quanto più pulito possibile) o registrare dal microfono del pc.
+N.B. SONO AMMESSI SOLO FILE WAV
 
 Nella cartella meta_outputs produce:
 
