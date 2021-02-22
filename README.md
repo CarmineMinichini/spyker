@@ -8,7 +8,7 @@ Nella cartella meta_outputs produce:
 Nella cartella principale produce:
 outputs.txt contenente il testo risconosciuto dall'assistente vocale
 
-![Screenshot](screen.png)
+![Screenshot](mario_draghi.png)
 
 
 ## Utilizzo
