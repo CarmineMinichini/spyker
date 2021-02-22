@@ -16,11 +16,6 @@ Nella cartella principale produce:
 ![Screenshot](mario_draghi.png)
 
 
-## Utilizzo
-Dalla cartella:
-```
-pip install -r requirements.txt
-```
 ### Specifiche
 Per l'installazione di SpeechRecognition e pyaudio:
 
@@ -30,6 +25,11 @@ Per l'installazione e la configurazione di NLTK e Snowball Stemmer in Italiano:
 
 https://www.nltk.org/
 
+### Utilizzo
+Dalla cartella:
+```
+pip install -r requirements.txt
+```
 dal terminale:
 ```
 python3 spyker.py
